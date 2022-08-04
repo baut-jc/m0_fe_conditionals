@@ -35,9 +35,20 @@ if (bearChoice === 1) {
 
 // Questions
 // 1. In English, using technical vocabulary, describe what is happening between lines 12 and 16.
+//      Door number1 will show a bear with a hat and door2 will show a bear with a scarf.
 // 2. What variable has a new value assigned to it after the first if statement executes?
+//      var bearChoice
 // 3. If you changed the variable doorChoice to equal 3, what would the bearClothing value be?
+//      scarf
 // 4. In English, using technical vocabulary, describe what is happening between lines lines 25 and 33.
+//      if the value for bearChoice is 1, it will print, "You offer the bear your hat/scarf(depending on the door choice) and the bear shows you a secret passage out!"
+//      if the value for bearChoice is 2 it will print,  "You tell the bear the hat/scarf(depending on the door choice) is too small and it starts to cry!"
+//      if the value for bearChoice is 3 it will print,  "You run as fast as you can into the next room. It's full of snakes!"
+//      if the value for bearChoice is greater than 3 it will print, "You stay with the bear and become it's best friend!"
+//      if they choose any of the printed options on the console, it will log depending on the number they choose. if it's greater than 3 or they picked a number above 3, it will print what is in the else parameter.
 // 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?
+//      if the value for bearChoice is 3 it will print,  "You run as fast as you can into the next room. It's full of snakes!"
 // 6. If you changed the variable doorChoice to equal 1, and the variable bearChoice to equal 2, what will be the final outcome be?
+//      if the value for bearChoice is 2 it will print,  "You tell the bear the hat/scarf(depending on the door choice) is too small and it starts to cry!"
 // 7. What is your favorite ending?
+//      when they pick a number greater than 3 :)
